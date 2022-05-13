@@ -76,7 +76,7 @@
     "styled-components": "^5.2.0"
   },
   "dependencies": {
-    "@types/lodash": "^4.14.162",
+    "@types/lodash": "^4.14.182",
     "@types/styled-system": "^5.1.10",
     "lodash": "^4.17.20",
     "react-transition-group": "^4.4.1",
